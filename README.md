@@ -1,5 +1,10 @@
 # Django Smart Fixture
 
+- Download
+```sh
+curl -s https://raw.githubusercontent.com/cuongnb14/django-smart-fixture/master/download.sh | bash -s 
+```
+
 - requirements
 ```
 django-dynamic-fixture==3.1.1
